@@ -1,0 +1,145 @@
+.nav-link:hover
+{
+  color: #B1814D;
+}
+.carousel-caption
+{
+  transform: translateY(50%);
+  bottom: 50% !important;
+}
+.sub-text
+{
+  color: #DA9F5B;
+}
+@media screen and (max-width: 375px) {
+  .navbar {
+    background-color: #33211D;
+    position: relative;
+  }
+  .carousel-indicators
+  {
+    display: none;
+  }
+}
+.carousel-image
+{
+background-color: #281B18;
+}
+
+.vertical
+{
+    border-left: 2px solid #DA9F5B;
+    height: 100px;
+}
+.about-us
+{
+  color: #DA9F5B;
+  letter-spacing: 3px;
+}
+.serving
+{
+  color: #33211D;
+}
+
+.our-story
+{
+  color: #33211D;
+}
+.para1
+{
+  color: #33211D;
+}
+.para2
+{
+  color: #7B5555;
+}
+.learn-more,.learn-more:hover
+{
+  background-color: #33211D;
+}
+.list 
+{
+  list-style-type: none;
+}
+.learn-more-2,.learn-more-2:hover
+{
+  background-color: #DA9F5B;
+  color: black;
+}
+.svg 
+{
+  font-weight: bold;
+  font-size: 20px;
+}
+body
+{
+  background-color: #FFFBF2;
+}
+.service-images
+{
+  height: 30vh;
+}
+.bg-image
+{
+  background: linear-gradient(rgba(51,33,29,0.9), rgba(51,33,29,0.9)),url(./Koppee/img/bg.jpg);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+ } 
+.input-group-text
+{
+  background-color: #DA9F5B;
+}
+.off
+{
+  color: #DA9F5B;
+}
+.menu-images
+{
+  width: 100px;
+}
+.price
+{
+  position: absolute;
+  height: 45px;
+  width: 45px;
+  border-radius: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:0px;
+  right: 25px;
+  margin: 0;
+  background-color: #B1814D;
+}
+.reservation
+{
+  background: linear-gradient(rgba(51,33,29,0.9), rgba(51,33,29,0.9)),url(./Koppee/img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.book-my-table
+{
+  background: linear-gradient(rgba(51,33,29,0.9), rgba(51,33,29,0.9));
+}
+.footer-image
+{
+  background: linear-gradient(rgba(51,33,29,0.9), rgba(51,33,29,0.9)),url(./Koppee/img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 100vh; */
+  width: 100vw;
+}
+body
+{
+  overflow-x: hidden;
+}
+.get-in-touch
+{
+  letter-spacing: 2px;
+}
+.social-media-buttons:hover
+{
+background-color: brown;
+}
